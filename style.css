@@ -1,0 +1,39 @@
+*,
+html,
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 80px;
+}
+
+h3 {
+}
+
+#table-siswa {
+    border-collapse: collapse ;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+} 
+
+.th-3 {
+    width: 400px;
+}
+
+img {
+    width: 130px;
+    height: auto;
+}
+
+.images {
+    background-color: blanchedalmond;
+}
+
+.link {
+    text-decoration: none;
+    color: teal;
+}
